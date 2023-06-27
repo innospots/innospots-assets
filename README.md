@@ -33,11 +33,11 @@ Innospots旨在提供全方位一站式流程解决方案，满足各种业务�
 
 ### 自助式BI报表引擎
 通过简单的拖拽轻松链接数据源、构建数据集以及创建出色的交互式报告和仪表板。快速总结关键性能指标，做出更明智的、数据驱动的决策。
-![](https://github.com/innospots/innospots-assets/blob/main/images/bi-report.png?raw=true | width=800)
+![](https://github.com/innospots/innospots-assets/blob/main/images/bi-report.png?raw=true)
 
 ### 低代码开发框架
 Innospots基于组件化和模块化的设计思想，实现了可插拔的组件式开发方式，同时提供了丰富的基础组件，旨在提升企业应用开发效率，使得企业能够轻松开发基于数据驱动的智能决策解决方案。
-![](https://github.com/innospots/innospots-assets/blob/main/images/all-modules.png?raw=true | width=800)
+![](https://github.com/innospots/innospots-assets/blob/main/images/all-modules.png?raw=true)
 
 ## 功能清单
 
@@ -73,7 +73,7 @@ Innospots基于组件化和模块化的设计思想，实现了可插拔的组�
 
 ### 交流讨论
 可以加入社区微信群参与讨论
-![](https://github.com/innospots/innospots-assets/blob/main/images/smars-wx.png?raw=true =200x200)
+![](https://github.com/innospots/innospots-assets/blob/main/images/smars-wx.png?raw=true)
 
 
 ## License
