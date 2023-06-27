@@ -70,7 +70,7 @@ Innospots基于组件化和模块化的设计思想，实现了可插拔的组�
 
 ### 交流讨论
 可以加入社区微信群参与讨论
-![](https://github.com/innospots/innospots-assets/blob/main/images/smars-wx.png?raw=true| =200x200)
+![](https://github.com/innospots/innospots-assets/blob/main/images/smars-wx.png?raw=true =200x200)
 
 
 ## License
